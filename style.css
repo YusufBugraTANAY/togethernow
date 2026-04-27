@@ -527,7 +527,7 @@ footer {
 }
 
 .nav-logo-img {
-    height: 90px;
+    height: 110px;
     width: auto;
     background-color: var(--white);
     padding: 4px 8px;
@@ -537,7 +537,7 @@ footer {
 }
 
 .footer-logo-img {
-    height: 120px;
+    height: 150px;
     width: auto;
     background-color: var(--white);
     padding: 8px 12px;
